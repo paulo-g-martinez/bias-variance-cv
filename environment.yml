@@ -1,0 +1,9 @@
+name: bias-variance-cv
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - pandas
+  - scikit-learn
+  - seaborn
+prefix: /Users/paulomartinez/opt/anaconda3/envs/bias-variance-cv
